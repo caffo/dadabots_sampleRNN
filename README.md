@@ -1,5 +1,5 @@
 # Dadabots SampleRNN 
-## Generating Metal, Rock, Punk, Beatbox
+## Generating Black Metal, Mathcore, Skate Punk, Beatbox, Meshuggah
 
 Code accompanying the NIPS 2017 paper [Generating Black Metal and Math Rock: Beyond
 Bach, Beethoven, and Beatles](http://dadabots.com/nips2017/generating-black-metal-and-math-rock.pdf) and MUME 2018 paper [Generating Albums with SampleRNN to Imitate Metal, Rock, and Punk Bands](http://musicalmetacreation.org/buddydrive/file/carr/)
