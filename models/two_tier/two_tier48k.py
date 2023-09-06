@@ -705,7 +705,7 @@ while True:
         # Generate samples
         generate_and_save_samples(tag)
         print "Done!"
-
+        os.system("/workspace/cnotify")
         if total_iters-last_print_iters == PRINT_ITERS \
             or total_time-last_print_time >= PRINT_TIME:
                 # If we are here b/c of onom_end_of_batch, we shouldn't mess
