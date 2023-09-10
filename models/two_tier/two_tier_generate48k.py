@@ -635,6 +635,7 @@ if True: #if Resume:
     # Generate samples
     generate_and_save_samples(tag, N_SECS)
     print "Done!"
+    os.system("/workspace/cnotify")
 
     print "Wall clock time spent: {:.2f}h"\
                 .format((time()-exp_start)/3600)
