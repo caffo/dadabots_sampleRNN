@@ -1,5 +1,5 @@
 #!/bin/sh
-# train48k.sh
+# train32k.sh
 # params: <cudaX> <dataset>
 # ./train32k.sh 0 k
 #
